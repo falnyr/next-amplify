@@ -1,5 +1,5 @@
 import { withSSRContext } from 'aws-amplify'
-import { Post } from '../../src/models'
+import { Post } from '../src/models'
 import Markdown from 'react-markdown'
 import { useRouter } from 'next/router'
 
